@@ -3,3 +3,6 @@
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+
+# Unity meta files in the root directory
+/*.meta
